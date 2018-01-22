@@ -4,7 +4,7 @@ main:
     url: /talks/    
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://ols.wtf
     
   - title: "CV"
     url: /cv/
